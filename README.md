@@ -5,7 +5,6 @@ A list of Deep Learning resources
 * [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - Yann LeCun & Alfredo Canziani (NYU - New York University)
 * [EECS 498-007 / 598-005 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/) - Justin Johnson (University of Michigan
 )
-*
 * [CS230 Deep Learning](https://cs230.stanford.edu/) - Andrew Ng and Kian Katanforoosh (Stanford University)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - Andrew Ng (DeepLearning.AI)
 * [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) - Younes Bensouda Mourri, Łukasz Kaiser and Eddy Shyu (DeepLearning.AI)
