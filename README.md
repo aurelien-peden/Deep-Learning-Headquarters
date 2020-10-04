@@ -14,7 +14,7 @@ A list of Deep Learning resources
 
 ## Books
 * [The Deep Learning textbook](https://www.deeplearningbook.org/) - Ian Goodfellow and Yoshua Bengio and Aaron Courville
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) - Aurélien Géron
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) - Aurélien Géron
 * [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) - Jeremy Howard and Sylvain Gugger
 * [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) - François Chollet
 
