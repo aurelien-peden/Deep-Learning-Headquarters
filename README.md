@@ -13,5 +13,7 @@ A list of Deep Learning resources
 * [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) - Pranav Rajpurkar (DeepLearning.AI)
 
 ## Libraries
-* [PyTorch](https://pytorch.org/tutorials/)
-* [TensorFlow](https://www.tensorflow.org/learn)
+* [Official PyTorch tutorials](https://pytorch.org/tutorials/)
+* [PyTorch tutorials playlist](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) - Aladdin Persson
+* [Official TensorFlow tutorials](https://www.tensorflow.org/learn)
+* [TensorFlow 2.0 tutorials playlist](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb) - Aladdin Persson
